@@ -1,0 +1,41 @@
+body{
+
+    background: white;
+}
+h1{
+    text-align: center;
+    color: black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+#显示时间{
+    color: black;
+    border: 2px solid black; 
+    border-radius: 8px;
+    width: 300px;         
+    height: 40px; 
+    margin-bottom: 100px;
+    width: 400px;
+    height: 100px;
+}
+#输入秒数{
+    width: 300px;         
+    height: 40px;         
+    padding: 5px;         
+    border: 2px solid black; 
+    border-radius: 8px;
+    background-color: aqua;
+    margin-bottom: 100px;
+    width: 400px;
+    height: 100px;
+}
+#内容{
+    text-align: center;
+    width: 400px;
+    height: 400px;
+    margin:auto;
+}
+#测试{
+    text-align: center;
+}
