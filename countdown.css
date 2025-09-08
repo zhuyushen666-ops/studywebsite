@@ -1,12 +1,3 @@
-@media (max-width: 768px){
-    body {
-    background-color: lightblue;
-  }
-    h1{
-    text-align: center;
-    color: pink;
-    }
-}
 
 body{
 
@@ -48,4 +39,13 @@ h1{
 }
 #测试{
     text-align: center;
+}
+@media (max-width: 768px){
+    body {
+    background-color: lightblue;
+  }
+    h1{
+    text-align: center;
+    color: pink;
+    }
 }
